@@ -75,7 +75,7 @@
 	*/
 	var defaults = {
 		source: null,
-		title: "TouchPDF",
+		title: "Ceiba International Group",
 		tabs: [],
 		tabsColor: "beige",
 		disableZoom: false,
