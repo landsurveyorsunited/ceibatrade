@@ -90,7 +90,7 @@
 		changed: null,
 		loadingHeight: 841,
 		loadingWidth: 595,
-		loadingHTML: "Loading PDF"
+		loadingHTML: "Loading Catalogs"
 	};
 
 
