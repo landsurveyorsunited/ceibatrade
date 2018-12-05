@@ -56,7 +56,7 @@
 	* @name $.fn.pdf.defaults
 	* @namespace
 	* @property {string} [source=""] Path of PDF file to display
-	* @property {string} [title="TouchPDF"] Title of the PDF to be displayed in the toolbar
+	* @property {string} [title="Ceiba International Group"] Title of the PDF to be displayed in the toolbar
 	* @property {array} [tabs=[]] Array of tabs to display on the side. See doc for syntax.
 	* @property {string} [tabsColor="beige" Default background color for all tabs. Available colors are "green", "yellow", "orange", "brown", "blue", "white", "black" and you can define your own colors with CSS.
 	* @property {boolean} [disableZoom=false] Disable zooming of PDF document. By default, PDF can be zoomed using scroll, two fingers pinch, +/- keys, and toolbar buttons
